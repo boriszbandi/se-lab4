@@ -1,0 +1,2 @@
+SUCCESS  # expected result for firing all torpedoes
+FAIL
