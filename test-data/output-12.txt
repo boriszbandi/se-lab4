@@ -1,0 +1,3 @@
+SUCCESS  # expected result for firing a single torpedo from secondary store
+SUCCESS
+SUCCESS
